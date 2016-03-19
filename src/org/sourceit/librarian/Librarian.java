@@ -1,7 +1,7 @@
 package org.sourceit.librarian;
 
-import org.sourceit.Order;
-import org.sourceit.Reader;
+import org.sourceit.entities.Order;
+import org.sourceit.entities.Reader;
 
 public class Librarian {
 
